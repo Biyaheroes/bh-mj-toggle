@@ -1,7 +1,0 @@
-<mjml>
-	<mj-body>
-		<mj-container>
-			<mj-toggle label="This is a toggle"/>
-		</mj-container>
-	</mj-body>
-</mjml>
